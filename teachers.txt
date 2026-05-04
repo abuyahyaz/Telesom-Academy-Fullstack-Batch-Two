@@ -4,3 +4,7 @@ ali
 jama
 ismail
 asd
+
+//we  hired two new teachers
+Ahmed Muse
+Ahmed farah
